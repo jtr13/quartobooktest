@@ -3,16 +3,15 @@ project:
   output-dir: docs
 
 book:
-  title: "quartobooktest"
+  title: "EDAV Final Project"
   author: "Norah Jones"
   date: "11/5/2023"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
-
-bibliography: references.bib
+    - data.qmd
+    - results.qmd
+    - d3graph.qmd
+    - conclusion.qmd
 
 format:
   html:
