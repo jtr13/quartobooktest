@@ -3,9 +3,14 @@ project:
   output-dir: docs
 
 book:
-  title: "EDAV Final Project"
-  author: "Norah Jones"
-  date: "11/5/2023"
+  title: "YOUR PROJECT TITLE"
+  author: "YOUR NAMES AND UNIS"
+  repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
+  date: today
+  page-footer:
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  repo-actions: [edit, issue]
   chapters:
     - index.qmd
     - data.qmd
