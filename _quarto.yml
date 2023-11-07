@@ -4,7 +4,9 @@ project:
 
 book:
   title: "YOUR PROJECT TITLE"
-  author: "YOUR NAMES AND UNIS"
+  author:
+    - AUTHOR1 (UNI1)
+    - AUTHOR2 (UNI2)
   repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
   date: today
   page-footer:
