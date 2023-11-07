@@ -20,7 +20,7 @@ This repo contains a [Quarto book](https://quarto.org/docs/books/) template for 
 
 ### Copy the repo link (GitHub)
 
-- [ ] 1. Click the green Code button, choose "HTTPS" and copy the link below. It should have the format: https://github.com/[USERNAME]/[REPO NAME].git
+- [ ] 1. Click the green Code button, choose "HTTPS" and copy the link below. It should have the format: https&#xfeff;://github.com/[USERNAME]/[REPONAME].git
 
 ### Clone the repo (RStudio)
 
@@ -30,7 +30,7 @@ This repo contains a [Quarto book](https://quarto.org/docs/books/) template for 
 
 Tip: From the file pane in RStudio, open `README.md`, which contains these instructions. You can delete steps as you complete them.
 
-- [ ] 1. Edit the all caps title and name info in  `_quarto.yml` to your info. (Note: it's very important to maintain the indenting structure in this file precisely as is -- be careful!)
+- [ ] 1. Change the all caps info in the `title:`, `author:` and `repo-url` fields in the YAML (top) section of `_quarto.yml` to your info. (Note: it's very important to maintain the indenting structure in this file precisely as is -- be careful!)
 
 ### Render the book (RStudio)
 
