@@ -2,6 +2,9 @@ project:
   type: book
   output-dir: docs
 
+execute:
+  echo: true
+
 book:
   title: "YOUR PROJECT TITLE"
   author:
@@ -23,5 +26,6 @@ book:
 format:
   html:
     theme: cosmo
+    code-fold: true
 
 
